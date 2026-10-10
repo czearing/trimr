@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+reducer/build/
+dist/
+trimr-reduce.exe
