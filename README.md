@@ -14,7 +14,7 @@ Trimr finds the meshes that put the most triangles on screen (trees, rocks, clif
 
 1. Download the latest release, unzip anywhere. You need Python 3.10+. First run installs `numpy` and `pillow`.
 2. Close the game, run `Trimr.bat`, pick a preset and what to trim.
-3. In MO2 enable **Trimr Output** and drag it above the mods listed in `trimr\report.md`.
+3. In MO2 enable **Trimr Output** and drag it above the mods listed in the report (the `trimr` folder inside your MO2 instance).
 
 Undo: disable or delete **Trimr Output**.
 
